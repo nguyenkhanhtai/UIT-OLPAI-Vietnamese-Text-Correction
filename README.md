@@ -11,7 +11,7 @@ Text correction aims to automatically transform noisy, corrupted, or misspelled 
 ### Performance Metric
 Model performance is evaluated using the **Character Error Rate (CER)** based on Levenshtein edit distance:
 
-$$\text{CER} = \frac{\text{LevenshteinDistance}(\text{Predicted\_Text},\, \text{Ground\_Truth})}{\text{Length}(\text{Ground\_Truth})}$$
+$$\text{CER} = \frac{\text{LevenshteinDistance}(\text{Predicted Text},\, \text{Ground Truth})}{\text{Length}(\text{Ground Truth})}$$
 
 ---
 
